@@ -1,6 +1,0 @@
-hi
-i am Chandrahas
-
-i am exploring git commands
-
-this is just for testing purposes
